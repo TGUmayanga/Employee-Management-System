@@ -8,6 +8,16 @@
                 </div>
                 <?php endif; ?>
 
+                <style>
+                    body{
+                    background-image: url(emp.jpg);
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-attachment: fixed;
+                    background-size: cover;
+                    }
+                    </style>
+
                 <div class="card shadow">
                     <div class="card-header">
                     <h3><span class="badge badge-primary">Login Form</span></h3>
